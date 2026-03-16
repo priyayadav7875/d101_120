@@ -15,7 +15,7 @@ from selenium.common.exceptions import TimeoutException
 
 # ---------------- URLS ----------------
 BASE_URL = [
- "https://www.shiksha.com/college/dy-patil-university-school-of-management-navi-mumbai-23549",
+"https://www.shiksha.com/college/dy-patil-university-school-of-management-navi-mumbai-23549",
 "https://www.shiksha.com/college/imperial-college-of-engineering-and-research-wagholi-pune-59691",
 "https://www.shiksha.com/college/faculty-of-art-and-design-m-s-ramaiah-university-of-applied-sciences-peenya-bangalore-61957",
 "https://www.shiksha.com/college/adypu-school-of-design-ajeenkya-dy-patil-university-lohegaon-pune-31513",
